@@ -1,0 +1,6 @@
+Algoritmo de cálculo de potência
+
+1. leia base
+2. leia potencia
+3. var resultado = base ^ potencia
+4. escreva resultado

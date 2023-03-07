@@ -1,0 +1,8 @@
+Algoritmo de cálculo de média ponderada
+
+1. ler numero1
+2. ler numero2
+3. ler peso1
+4. ler peso2
+5. var media_ponderada = [(numero1 * peso1) + (numero2 * peso2)] / (peso1 + peso2)
+6. escreva media_ponderada

@@ -1,0 +1,9 @@
+Algoritmo de busca linear
+
+1. ler lista de elementos
+2. para cada elemento da lista faça:
+3.	se elemento == elemento desejado então:
+4.		escreva elemento
+5.	senão:
+6.		passe adiante
+7. fim

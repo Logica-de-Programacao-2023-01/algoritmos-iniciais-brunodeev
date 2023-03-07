@@ -1,0 +1,7 @@
+Algoritmo de verificação de número primo
+
+1. leia numero
+2. se numero for divisível apenas por ele mesmo ou apenas por 1 faça:
+3.	escreva primo
+4. senão faça:
+5.	escreva não primo
