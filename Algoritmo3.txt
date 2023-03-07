@@ -1,0 +1,9 @@
+Algoritmo que calcula média de uma lista de números
+
+1. ler lista de números
+2. ler tamanho da lista de números
+3. soma_numeros = 0
+4. para cada item faça: 
+5.	soma_numeros += item
+6. media = soma_numeros / tamanho da lista de números
+7. escreva media
