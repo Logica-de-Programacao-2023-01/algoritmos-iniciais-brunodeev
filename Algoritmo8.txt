@@ -1,0 +1,6 @@
+Algoritmo de cálculo de área de um triângulo
+
+1. ler tamanho_base
+2. ler altura
+3. var area = (tamanho_base * altura) / 2
+4. escreva area
