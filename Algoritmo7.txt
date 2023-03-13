@@ -1,7 +1,7 @@
 Algoritmo de verificação de número primo
 
 1. leia numero
-2. se numero for divisível apenas por ele mesmo ou apenas por 1 faça:
-3.	escreva primo
-4. senão faça:
-5.	escreva não primo
+2. para cada valor entre 2 e numero - 1:
+3.  se numero % valor_atual == 0:
+4.    então escreva não é primo
+5.  escreva é primo
