@@ -1,0 +1,9 @@
+Algoritmo de cálculo de juros compostos
+
+1. ler capital_inicial
+2. ler taxa_juros
+3. ler tempo
+4. var juros_compostos = capital_inicial
+5. para todo numero entre 1 e tempop, faça:
+6.  resultado = resultado * (1 + taxa_juros)
+7. escreva resultado
